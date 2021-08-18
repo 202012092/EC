@@ -1,4 +1,4 @@
 # EC
-views contains presentation
-index contains business logic
-packge contains dependencies
+views contains presentation.
+index contains business logic.
+package contains dependencies.
